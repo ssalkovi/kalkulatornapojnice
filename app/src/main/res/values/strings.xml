@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">kalkic</string>
+    <string name="usluga">Kakva je bila usluga</string>
+    <string name="tekst_iznost">Upiši iznos</string>
+    <string name="petPosto">ne posebna (5%)</string>
+    <string name="dobra">dobra (10%)</string>
+    <string name="izvrsna">izvrsna (15%)</string>
+    <string name="zaokruziIznos">Zaokružiti iznos?</string>
+    <string name="izracunaj">Izračunaj</string>
+    <string name="izracunatiIznos">Izračunati iznos: %s</string>
+</resources>
